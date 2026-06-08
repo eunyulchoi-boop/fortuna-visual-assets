@@ -1,0 +1,24 @@
+# FORTUNA GitHub Pages static package — public assets only
+# Block secrets, tokens, configs, and non-public workflow artifacts
+
+secrets/
+**/secrets/**
+*token*
+*credentials*
+*.env
+.env
+config/
+**/*.csv
+**/*.db
+**/*lock*
+**/*snapshot*
+logs/
+cache/
+__pycache__/
+.DS_Store
+Thumbs.db
+*.log
+*.local.json
+
+# Do not track git metadata from parent workspaces
+.git/
