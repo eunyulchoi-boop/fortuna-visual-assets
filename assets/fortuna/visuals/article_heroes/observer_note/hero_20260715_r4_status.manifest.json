@@ -1,0 +1,19 @@
+{
+  "schema_version": "FortunaVisualAssetLineageManifest.v1",
+  "target": "2026-07-15",
+  "asset_path": "assets/fortuna/visuals/article_heroes/observer_note/hero_20260715_r4_status.png",
+  "public_url": "https://eunyulchoi-boop.github.io/fortuna-visual-assets/assets/fortuna/visuals/article_heroes/observer_note/hero_20260715_r4_status.png",
+  "asset_sha256": "a501bb94b156626fafc8e507263ad7a622f72870748c731ca0ed951db554d242",
+  "asset_media_type": "image/png",
+  "asset_width": 1200,
+  "asset_height": 630,
+  "writer_r4_markdown_sha256": "eabe3524a53c099d5548458513f6c7846f46d8cbac746b17eda04a617766e747",
+  "writer_r4_html_sha256": "f780b71f3a8ab6634b741a2a19db9c70dfd41ca6ae13b521bfb2663d62ee09c4",
+  "writer_r4_package_sha256": "cba483059b5d776f1e070a19c488ba5501c7dd0c67d4a29a088be0911225b453",
+  "writer_r4_lineage_sha256": "21883b994a0ca3b50b436b9b7c319899d2792a60071edbcadf694e52fbc19635",
+  "prediction_bundle_content_sha256": "9dd96161c6e6500e8404d0a8899e1fac08ebd50633162d8baa184dae6a2df480",
+  "hero_lineage_key": "1301f7951cc651eeb0ed189fac372749efc7dc31681f95eca5e671de5719a116",
+  "hero_package_sha256": "7295763986630cf68436afba23a78f09038808d925306ae0fd9634f0451ebf03",
+  "git_remote": "https://github.com/eunyulchoi-boop/fortuna-visual-assets.git",
+  "git_branch": "main"
+}
