@@ -1,0 +1,13 @@
+{
+    "schema_version":  "FORTUNA_PUBLIC_HERO_LINEAGE_MANIFEST_V2",
+    "pipeline_id":  "FORTUNA_PREDICTION_TO_BLOGGER_DRAFT_V2",
+    "target_session":  "2026-07-23",
+    "publication_context_sha256":  "9c40210b68b8189e7b4c5295eaeb3f10d50e6cb4e6ef02011bb7e1667628478b",
+    "resume_context_sha256":  null,
+    "hero_lineage_key":  "c5ca6b2af31563b367082bc1ede3974f2d80e3f7d745ec74be9f87bab1c802dc",
+    "hero_png_sha256":  "3def5c58c95f673e673268334360645993ae0921d8c2e27a0a21156c8c25b706",
+    "writer_package_sha256":  "cf9ed54641d2a6c7364a0554083a75a52cee1795d277ca44200cb4dc2bcbb1c8",
+    "prediction_file_sha256":  "40e090741821ca5e4e672403cff3baa013fb06ef785bcda28cee19910ac134e5",
+    "relative_path":  "assets/fortuna/visuals/article_heroes/observer_note/hero_20260723_status.png",
+    "public_url":  "https://eunyulchoi-boop.github.io/fortuna-visual-assets/assets/fortuna/visuals/article_heroes/observer_note/hero_20260723_status.png"
+}
