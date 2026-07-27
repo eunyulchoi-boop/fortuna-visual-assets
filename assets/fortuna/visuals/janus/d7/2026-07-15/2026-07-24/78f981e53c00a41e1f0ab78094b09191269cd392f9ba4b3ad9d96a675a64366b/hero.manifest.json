@@ -1,0 +1,15 @@
+{
+  "schema_version": "JanusD7PublicHeroManifest.v1",
+  "capability_id": "FORTUNA_JANUS_D7_TO_BLOGGER_DRAFT_V1",
+  "janus_slot": "source_20260715:d7:outcome_20260724",
+  "source_session": "2026-07-15",
+  "outcome_session": "2026-07-24",
+  "horizon": "D+7",
+  "aligned_count": 8,
+  "against_count": 3,
+  "hero_sha256": "78f981e53c00a41e1f0ab78094b09191269cd392f9ba4b3ad9d96a675a64366b",
+  "hero_bytes": 2155627,
+  "source_review_sha256": "a01b6caa5a5f5aae219eebe5046a3738f6985a8620241001110f837d422215e9",
+  "writer_package_sha256": "d7e5417e3bc5744d410c754063050e503c7adf3e96310c4e02170ab375c4827d",
+  "live_publish_allowed": false
+}
