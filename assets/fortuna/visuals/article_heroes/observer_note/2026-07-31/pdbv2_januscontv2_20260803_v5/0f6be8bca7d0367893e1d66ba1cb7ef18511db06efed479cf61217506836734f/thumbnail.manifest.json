@@ -1,0 +1,11 @@
+{
+    "schema_version":  "JANUS_CONTINUITY_PUBLIC_THUMBNAIL_MANIFEST_V2",
+    "capability_id":  "FORTUNA_JANUS_CONTINUITY_TO_BLOGGER_DRAFT_V2",
+    "run_id":  "janus_continuity_20260803_v5",
+    "data_cutoff":  "2026-07-31",
+    "hero_lineage_key":  "b93439400e8cd0915c317d8f243329148e3dbe6b2c66f6e0b3dd933122e7b0f0",
+    "thumbnail_png_sha256":  "0f6be8bca7d0367893e1d66ba1cb7ef18511db06efed479cf61217506836734f",
+    "relative_path":  "assets/fortuna/visuals/article_heroes/observer_note/2026-07-31/pdbv2_januscontv2_20260803_v5/0f6be8bca7d0367893e1d66ba1cb7ef18511db06efed479cf61217506836734f/thumbnail.png",
+    "manifest_relative_path":  "assets/fortuna/visuals/article_heroes/observer_note/2026-07-31/pdbv2_januscontv2_20260803_v5/0f6be8bca7d0367893e1d66ba1cb7ef18511db06efed479cf61217506836734f/thumbnail.manifest.json",
+    "public_url":  "https://eunyulchoi-boop.github.io/fortuna-visual-assets/assets/fortuna/visuals/article_heroes/observer_note/2026-07-31/pdbv2_januscontv2_20260803_v5/0f6be8bca7d0367893e1d66ba1cb7ef18511db06efed479cf61217506836734f/thumbnail.png"
+}
