@@ -1,0 +1,14 @@
+{
+    "schema_version":  "FORTUNA_PUBLIC_THUMBNAIL_LINEAGE_MANIFEST_V2",
+    "pipeline_id":  "FORTUNA_PREDICTION_TO_BLOGGER_DRAFT_V2",
+    "target_session":  "2026-09-04",
+    "run_id":  "pdbv2_auto_d713977b8cec454483ed9ecdf4bec3bf",
+    "publication_context_sha256":  "178c8b752d63ed0ffc370171a08d380c749dc07664d2441ae39fd9d9d26da67d",
+    "hero_lineage_key":  "967c2fe3a641a0196ef8f677ba664579bdf0ec1391a72e2d3457c5de252f55be",
+    "thumbnail_png_sha256":  "1d4e79b6fcd7d1cc3477b93aa0a361cf41951810af684393fe71ebb9fff7433e",
+    "writer_package_sha256":  "2beb59155afddd6378a4a50eb6477bec1e8aa1eac671911f1ebfb6d95bd8d1c6",
+    "prediction_file_sha256":  "0a6328ca83405957cde409ec91549a4ac111e4c4a8eb9f2d30c9daf27d82f9b9",
+    "relative_path":  "assets/fortuna/visuals/article_heroes/observer_note/2026-09-04/pdbv2_auto_d713977b8cec454483ed9ecdf4bec3bf/1d4e79b6fcd7d1cc3477b93aa0a361cf41951810af684393fe71ebb9fff7433e/thumbnail.png",
+    "manifest_relative_path":  "assets/fortuna/visuals/article_heroes/observer_note/2026-09-04/pdbv2_auto_d713977b8cec454483ed9ecdf4bec3bf/1d4e79b6fcd7d1cc3477b93aa0a361cf41951810af684393fe71ebb9fff7433e/thumbnail.manifest.json",
+    "public_url":  "https://eunyulchoi-boop.github.io/fortuna-visual-assets/assets/fortuna/visuals/article_heroes/observer_note/2026-09-04/pdbv2_auto_d713977b8cec454483ed9ecdf4bec3bf/1d4e79b6fcd7d1cc3477b93aa0a361cf41951810af684393fe71ebb9fff7433e/thumbnail.png"
+}
